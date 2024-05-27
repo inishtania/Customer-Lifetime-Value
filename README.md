@@ -32,5 +32,8 @@ Analyzing feature importance from the model reveals that the most significant fe
 
 Combining this with the SHAP values, the `vehicle class`, especially for those who own `sports cars`, can make clv more varied. 
 
+## **Video Presentation**
+https://www.youtube.com/watch?v=Os44bRDVzvs
+
 ## **Linkedin**
 Pleaase kindly check my profile because i kept update my work on linkedin www.linkedin.com/in/intania-iskandar-35b526285
